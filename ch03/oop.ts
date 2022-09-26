@@ -176,3 +176,6 @@ console.log(`A instance of A : ${new A() instanceof A}`);
 console.log(`BfromA instance of A : ${new BfromA() instanceof A}`);
 console.log(`BfromA instance of BfromA : ${new BfromA() instanceof BfromA}`);
 console.log(`DfromC instance of A : ${new DfromC() instanceof A}`);
+
+
+
