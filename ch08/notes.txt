@@ -1,0 +1,8 @@
+we can extend config (tsconfig.json) residing in top level directory
+by including separate config in sub directory by :
+"extends" : "../tsconfig" (relative path to top level directory).
+
+
+Airbnb has open-sourced tool ts-migrate, that helps us migrate js to ts.
+
+
